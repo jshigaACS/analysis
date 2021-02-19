@@ -7,6 +7,7 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib import cm
+import numpy as np
 
 #前処理:
 def settings(_df):
