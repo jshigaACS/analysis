@@ -6,7 +6,7 @@ import numpy as np
 from matplotlib import cm
 import matplotlib 
 from matplotlib.font_manager import FontProperties
-#matplotlib.font_manager._rebuild()
+matplotlib.font_manager._rebuild()
 
 font_path = '/usr/share/fonts/truetype/takao-gothic/TakaoPGothic.ttf'
 font_prop = FontProperties(fname=font_path)
