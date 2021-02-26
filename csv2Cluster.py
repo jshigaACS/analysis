@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib import cm
 import numpy as np
+# 20210226_add 
 
 #前処理:
 def settings(_df):
